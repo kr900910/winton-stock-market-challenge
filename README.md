@@ -1,1 +1,0 @@
-# winton-stock-market-challenge
